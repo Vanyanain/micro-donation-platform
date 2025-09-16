@@ -1,0 +1,15 @@
+[package]
+name = "micro-donation-platform"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule="0xd60147d2c3048e3dbfad3b33c53f2b4f39e3c503e72d8688e895f6f04aa67970"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
