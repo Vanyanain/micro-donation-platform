@@ -1,15 +1,19 @@
-Micro Donation Platform
+#Micro Donation Platform
 
-📖 Description
+📖 ##Description
 
 
 The Micro Donation Platform is a blockchain-based decentralized application (dApp) that enables users to send and receive small donations securely and transparently using smart contracts. This platform eliminates the need for intermediaries, ensuring that donations reach the intended recipients directly with minimal transaction fees.
 The system leverages the immutability and transparency of blockchain to build trust between donors and recipients, providing a verifiable record of all transactions.
-🎯 Vision
+
+
+🎯 ##Vision
 
 
 Our vision is to create a transparent, trustless, and accessible donation ecosystem where anyone can support causes they believe in through micro-donations. By harnessing blockchain technology, we aim to empower individuals, charities, and organizations worldwide to receive direct support without relying on centralized institutions.
-🚀 Future Scope
+
+
+🚀 ##Future Scope
 
 
 Multi-Currency Support: Expand to accept donations in multiple cryptocurrencies (ETH, BTC, stablecoins, etc.).
