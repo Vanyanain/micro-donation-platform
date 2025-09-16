@@ -16,9 +16,9 @@ Our vision is to create a transparent, trustless, and accessible donation ecosys
 🚀 ##Future Scope
 
 
-Multi-Currency Support: Expand to accept donations in multiple cryptocurrencies (ETH, BTC, stablecoins, etc.).
-Cross-Chain Integration: Enable interoperability with other blockchains for wider accessibility.
-Donation Tracking Dashboard: Provide visual analytics and dashboards for donors and recipients.
-Recurring Donations: Add features for automated recurring micro-donations through smart contracts.
-NFT Rewards: Implement NFT-based badges/rewards for donors as proof of support.
-Integration with Social Media: Allow donation links to be shared across platforms for seamless fundraising.
+###Multi-Currency Support: Expand to accept donations in multiple cryptocurrencies (ETH, BTC, stablecoins, etc.).
+###Cross-Chain Integration: Enable interoperability with other blockchains for wider accessibility.
+###Donation Tracking Dashboard: Provide visual analytics and dashboards for donors and recipients.
+###Recurring Donations: Add features for automated recurring micro-donations through smart contracts.
+###NFT Rewards: Implement NFT-based badges/rewards for donors as proof of support.
+###Integration with Social Media: Allow donation links to be shared across platforms for seamless fundraising.
